@@ -1,0 +1,72 @@
+.navbar-brand{
+    width: 10%;
+}
+.navbar-brand h1{
+    font-size: 16px;
+}
+.navbar-brand small{
+    font-size: 10px;
+    color:#BFC1C8 ;
+}
+.branding img{
+    width: 20%;
+    height: 20%;
+} 
+#navbarNav .navbar-nav .nav-link{
+    color: white;
+    margin-left: 5rem;
+}
+/* ================================ */
+#home{
+    min-height: 100vh;
+    background-image: url('../imgs/banner.png');
+    background-repeat: no-repeat;
+    background-color: #1E202B;
+    padding-top: 100px;
+}
+#home .form-control{
+
+    
+    background-color:#1E202B ;
+    color: white;
+}
+#home .main-input{
+    top: 25%;
+    
+}
+#home ::placeholder{
+    color:white;
+    font-size: 1rem;
+}
+#home .btn{
+    
+    right: 1%;
+}
+.body .main{
+    font-size: 6rem;
+}
+
+.bold-text{
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.item{
+    height: 22rem;
+}
+.color1{
+    background-color: #323544;
+}
+.color2{
+  background-color:   #2D303D;
+}
+.color3{
+    background-color: #262936;
+}
+.color4{
+    background-color: #222530;
+}
+
+.color5{
+    color: #BFC1C0;
+}
